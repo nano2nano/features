@@ -1,0 +1,10 @@
+{
+    "name": "taplo",
+    "id": "taplo",
+    "version": "1.0.0",
+    "description": "Install [taplo](https://github.com/tamasfe/taplo)",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
